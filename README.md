@@ -227,6 +227,14 @@ public class MainActivity extends AppCompatActivity {
 
 # Berikut Hasil Run
 
-Video WhatsApp 2023-11-06 pukul 11.38.07_17c7713f.mp4
+
+
+
+
+https://github.com/Darmanto212/DeretFibonancci/assets/119830472/27334a24-eb04-4874-b4cf-9f1e09098c4b
+
+
+
+
 
 ## Selesai, Terima kasih
